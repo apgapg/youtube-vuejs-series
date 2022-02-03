@@ -82,3 +82,15 @@ persist: false
 **Vite:** Bundler like Webpack
 
 **Tailwind:** CSS Framework
+
+---
+
+# About Me
+
+### Ayush P Gupta
+
+Github: https://github.com/apgapg
+
+Twitter: https://twitter.com/ayushpgupta
+
+Linkedin: https://www.linkedin.com/in/ayushpgupta/
